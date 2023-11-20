@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manizheh-saf
 - 👀 I’m interested in deep learning and ml
-- 🌱 I’m currently learning python
+
 - 💞️ I’m looking to collaborate ,,,,,
 - - 📫 How to reach me manizhehsgg@gmail.com
 
